@@ -1,1 +1,3 @@
-StarBucks
+*StarBucks*
+
+Projeto de pagina inicial.
